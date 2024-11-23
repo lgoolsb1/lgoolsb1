@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Lewis.
+
+## 🌱 I’m currently learning PHP and Python
+
+## 💬 Ask me about business analysis and project management.
+
+## ⚡ Fun fact: I've had 2 Ford Taurus SHOs and ran those suckers at 150+ mph. They were too light to do much more but had the power.
 
 <!--
 **lgoolsb1/lgoolsb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
